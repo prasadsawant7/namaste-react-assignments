@@ -1,1 +1,1 @@
-# namaste-react-assignments
+# Namaste React Assignments
